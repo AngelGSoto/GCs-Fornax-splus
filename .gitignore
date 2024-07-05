@@ -1,0 +1,9 @@
+# Exclude files with certain extensions
+*.dat
+*.fits
+*.csv
+
+# Exclude files with certain suffixes or patterns
+*~
+*#
+#*
